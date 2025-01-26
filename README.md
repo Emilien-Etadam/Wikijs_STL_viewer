@@ -3,7 +3,7 @@ Easily add an STL viewer to Wiki.js 2.5 for 3D model visualization.
 
 ## Installation
 
-1. Go to **"Administration" > Theme** in the Wiki.js admin panel.
+1. Go to **Administration > Theme** in the Wiki.js admin panel.
 
 2. Copy/paste the code from `HTML_head.js` into the **second injection code frame** (right column).
 
