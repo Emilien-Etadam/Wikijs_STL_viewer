@@ -17,3 +17,6 @@ Easily add an STL viewer to Wiki.js 2.5 for 3D model visualization.
 
    ```html
    <div class="stl-viewer" data-src="/PATH_TO_YOUR_FILE.stl" style="width: 100%; height: 500px;"></div>
+
+7. Result:
+   ![waterfox_07TNsS7TDN](https://github.com/user-attachments/assets/c3baedb0-5df5-4532-8865-c4eed5f36fcd)
